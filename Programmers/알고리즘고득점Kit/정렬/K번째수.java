@@ -1,4 +1,4 @@
-package Programmers.알고리즘고득점Kit;
+package Programmers.알고리즘고득점Kit.정렬;
 
 /*
 * 1. i ~ j 까지 배열 자르기
